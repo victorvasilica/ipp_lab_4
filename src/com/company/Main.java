@@ -1,10 +1,7 @@
 package com.company;
 
-import sun.misc.IOUtils;
-
 import java.io.*;
 import java.net.URL;
-import java.net.URLConnection;
 
 public class Main {
 
@@ -18,5 +15,8 @@ public class Main {
         while ((inputLine = in.readLine()) != null)
             System.out.println(inputLine);
         in.close();
-        }
+
+        System.out.println("testing the commit menu in IntellJ, let the fun begin");
+    }
+
 }
