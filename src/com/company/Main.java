@@ -6,17 +6,11 @@ import java.net.URL;
 public class Main {
 
     public static void main(String[] args) throws IOException {
-        FirstClass firstClass = new FirstClass();
-        URL oracle = new URL("http://www.oracle.com/");
-        BufferedReader in = new BufferedReader(
-                new InputStreamReader(oracle.openStream()));
+        String theAtlantic = "http://www.theatlantic.com/magazine/archive/1945/07/as-we-may-think/303881/";
 
-        String inputLine;
-        while ((inputLine = in.readLine()) != null)
-            System.out.println(inputLine);
-        in.close();
+        FirstClass myHTTP = new FirstClass(theAtlantic);
 
-        System.out.println("testing the commit menu in IntellJ, let the fun begin");
+        myHTTP.uriDescription();
     }
 
 }
