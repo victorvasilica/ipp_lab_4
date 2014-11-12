@@ -2,8 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cdcb91d3-a192-4aee-9944-a7754e833752" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/company/FirstClass.java" afterPath="$PROJECT_DIR$/src/com/company/FirstClass.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/company/Main.java" afterPath="$PROJECT_DIR$/src/com/company/Main.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="ipp_lab4.iws" />
@@ -353,7 +351,13 @@
       <option name="project" value="LOCAL" />
       <updated>1415819259823</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Played a little with Java.net.URL library&#10;">
+      <created>1415826523308</created>
+      <option name="number" value="00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1415826523308</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -402,7 +406,8 @@
       <TodoPanelSettings />
     </option>
     <MESSAGE value="Checking how commit menu from IntelliJ works" />
-    <option name="LAST_COMMIT_MESSAGE" value="Checking how commit menu from IntelliJ works" />
+    <MESSAGE value="Played a little with Java.net.URL library&#10;" />
+    <option name="LAST_COMMIT_MESSAGE" value="Played a little with Java.net.URL library&#10;" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
